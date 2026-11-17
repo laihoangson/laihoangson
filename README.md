@@ -1,9 +1,16 @@
-## Hi there 👋. I am Hoang Son Lai
+## Hi there 👋 I'm Hoang Son Lai
 
-As an emerging data and business analytics professional, I am passionate about bridging the gap between complex data and actionable business insights. Currently pursuing my Master of Business Analytics at Monash University, I build upon a solid academic and practical foundation in Banking and Finance.
+Data & Business Intelligence Analyst completing a Master of Business Analytics at Monash University, with a background in Banking and International Finance.
 
-Through my hands-on experience in the finance and insurance sectors, I have developed a strong understanding of market dynamics and client operations. I actively apply this domain knowledge alongside technical tools - such as Python, SQL, R, and data visualisation - to solve real-world analytical challenges.
+I have hands-on experience across energy, financial services, and insurance, where I have built machine learning forecasting pipelines, automated reporting workflows, and kept customer data accurate and reliable.
 
-I am highly adaptable, driven by continuous learning, and fully committed to professional growth. I bring energy and a proactive mindset to every opportunity, always eager to tackle new challenges and deliver tangible value to my team.
+### Projects
+- [Global Market Insight](https://github.com/laihoangson/financial-analytic) - automated ETL pipeline and dashboards for 21 companies with daily AI-generated insights ([live site](https://laihoangson.github.io/financial-analytic/))
+- [Melbourne Property Price](https://github.com/laihoangson/real-estate) - XGBoost price prediction dashboard built on 200,000+ listings ([live site](https://laihoangson.github.io/real-estate/))
+- [World of Games and Data](https://github.com/laihoangson/world-of-games-and-data-2) - 4 browser games with telemetry and behavioural analytics ([live site](https://laihoangson.github.io/world-of-games-and-data-2/))
 
-This is my portfolio website: https://laihoangson.github.io/
+### Tools
+Python | SQL | R | Power BI | Tableau | Databricks | dbt | Supabase | Git
+
+### Connect
+[Portfolio](https://laihoangson.github.io/) | [LinkedIn](https://www.linkedin.com/in/hoang-son-lai-92ab19282/)
