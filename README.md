@@ -10,7 +10,7 @@ I have hands-on experience across energy, financial services, and insurance, whe
 - [World of Games and Data](https://github.com/laihoangson/world-of-games-and-data-2) - 4 browser games with telemetry and behavioural analytics ([live site](https://laihoangson.github.io/world-of-games-and-data-2/))
 
 ### Tools
-Python | SQL | R | Power BI | Tableau | Databricks | dbt | Supabase | Git
+Python | SQL | R | Power BI | Tableau | Databricks | dbt | Excel | Git
 
 ### Connect
 [Portfolio](https://laihoangson.github.io/) | [LinkedIn](https://www.linkedin.com/in/hoang-son-lai-92ab19282/)
